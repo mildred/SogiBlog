@@ -34,9 +34,11 @@ Cette formule va calculer le temps passé sur un projet en faisant une somme int
 
 Finalement, sur le projet Enalean, le mot clef a été configuré comme étant "`Enalean*`" ce qui permet de spécifier dans la feuille de temps :
 
-| Janvier 2016| Mot Clef | ... | Shanti     |
+| A           | B        | ... | Q          |
 | ----------- | -------- | --- | ---------- |
-| Enalean     | Enalean* |     | =IF(...)/4 |
+| **Janvier 2016**| **Mot Clef** |     | **Shanti**    |
+| ...         |
+| Enalean     | Enalean* |     | `=IF(...)/4` |
 | ...         |
 |             |
 | 25/01 |  |  | Enalean - Import Artifact Links     |
@@ -107,14 +109,14 @@ J'ai ensuite défini une fonction Google Sheet (Outils -> Éditeur de scripts) :
 
 Je peux ensuite utiliser cette formule dans un tableau :
 
-  | A     | B | C                                              | D
---|-------|---|------------------------------------------------|----------
-1 |       |   | **Shanti**                                     |
-2 |       |   | **Temps passé**                                | **Activité**
-3 |       |   |                                                |
-4 | 27/01 |   | `=activite(time_data; A4; C$1; "Enalean[ -]*")`|
-5 | 28/01 |   | `=activite(time_data; A5; C$1; "Enalean[ -]*")`|
-6 | 29/01 |   | `=activite(time_data; A6; C$1; "Enalean[ -]*")`|
+|   | A     | B | C                                              | D
+|---|-------|---|------------------------------------------------|----------
+| 1 |       |   | **Shanti**                                     |
+| 2 |       |   | **Temps passé**                                | **Activité**
+| 3 |       |   |                                                |
+| 4 | 27/01 |   | `=activite(time_data; A4; C$1; "Enalean[ -]*")`|
+| 5 | 28/01 |   | `=activite(time_data; A5; C$1; "Enalean[ -]*")`|
+| 6 | 29/01 |   | `=activite(time_data; A6; C$1; "Enalean[ -]*")`|
 
 Ce qui résulte en le tableau suivant :
 
