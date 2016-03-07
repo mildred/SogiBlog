@@ -56,3 +56,7 @@ For example:
 
 Making the documents mutable: the records
 -----------------------------------------
+
+The node graph gives you an immutable data structure. What do you do when you want to change some part of it? You can't without changing the root node hash, which will gives you a different address.
+
+Records are created for this very purpose: it's a node which has a specific address that doesn't change when the data referenced by the record changes
