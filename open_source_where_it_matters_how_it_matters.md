@@ -1,7 +1,7 @@
 Free Software: Where it matters, How it matters
 ===============================================
 
-The following discussion exposes very personal opinions, you can [skip the first part)(#what-is-free-software) if you dont want to be bothered. Opinions expressed are solely my own and do not necessarily express the views or opinions of my employer or my coworkers.
+The following discussion exposes very personal opinions, you can [skip the first part](#what-is-free-software) if you dont want to be bothered. Opinions expressed are solely my own and do not necessarily express the views or opinions of my employer or my coworkers.
 
 Why should it matter?
 ---------------------
