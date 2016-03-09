@@ -6,9 +6,9 @@ Why should it matter?
 
 Every one of us has moral values. Our moral values are influenced by our surroundings, but I am one of those who thinks that the moral comes from a Godly realm. The moral is not for us to decide based on our preferences, but it is an absolute truth that we can only aspire to approach.
 
-In the ancient times, you would say God dictates the moral, but for present times, I would prefer to say that the laws of the universe are such that we can distinguish good things that improves the state of the universe overall, and bad things that does the contrary. This is how I would define the moral.
+In the ancient times, you would say God dictates the moral, but for present times, I would prefer to refer to the cosmology. What is ultimately good is something that improves the state of the universe overall. The evil is what makes the universe worse. The moral is this distinction between the ultimate good and evil.
 
-And because we don't know the whole universe, and we will never know, we can only guess as what is good and evil. This is our personal sense of the moral, that is different for everyone.
+And because we don't know the whole universe, and we will never know, we can only guess as what is good and evil. This is our personal sense of the moral, that is different for everyone, and must be distinguished from the ultimage good and evil we may never fully understand.
 
 Now, when we look at free software, that's obviously a good thing. it advances the state of things. In French we would say *que ça fait avancer le shilblick*.
 
